@@ -10,7 +10,7 @@ interface CommandMenuProps {
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/demo", label: "Insights" },
+  { href: "/insights", label: "Insights" },
   { href: "/pricing", label: "Pricing" },
   { href: "/about", label: "About" },
 ];
