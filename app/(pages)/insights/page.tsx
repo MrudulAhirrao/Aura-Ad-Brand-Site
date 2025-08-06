@@ -68,7 +68,7 @@ const InsightPage = () => {
                         transition={{ duration: 0.8, delay: 0.4 }}
                         className="mt-6 text-lg md:text-xl text-white/70"
                     >
-                        This is more than a demo. It's a glimpse into the future of advertising strategy. See how Aura transforms complex data into decisive action.
+                        This is more than a demo. It&apos;s a glimpse into the future of advertising strategy. See how Aura transforms complex data into decisive action.
                     </motion.p>
                 </div>
             </motion.section>

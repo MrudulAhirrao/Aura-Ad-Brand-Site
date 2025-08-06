@@ -19,7 +19,7 @@ const SolutionSection = () => {
                         Aura finds the signal.
                     </h2>
                     <p className="mt-4 text-lg sm:text-xl text-white/70 max-w-3xl mx-auto">
-                        We translate millions of data points into a single, powerful recommendation. Here's a real-world example of an insight you could receive.
+                        We translate millions of data points into a single, powerful recommendation. Here&apos;s a real-world example of an insight you could receive.
                     </p>
                 </motion.div>
 

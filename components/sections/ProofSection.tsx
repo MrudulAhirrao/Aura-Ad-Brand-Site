@@ -23,7 +23,7 @@ const ProofSection = () => {
             Unified Performance. Unprecedented Growth.
           </h2>
           <p className="mt-4 text-lg sm:text-xl text-white/70 max-w-3xl mx-auto">
-            Aura doesn't just simplify—it amplifies. Based on an analysis of 50+ campaigns, clients saw an average ROI uplift of 38% within the first quarter by reallocating budget based on our AI recommendations.
+            Aura doesn&apos;t just simplify—it amplifies. Based on an analysis of 50+ campaigns, clients saw an average ROI uplift of 38% within the first quarter by reallocating budget based on our AI recommendations.
           </p>
         </motion.div>
 

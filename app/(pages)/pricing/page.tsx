@@ -227,7 +227,7 @@ const PricingPage = () => {
                         <Code className="w-12 h-12 text-blue-400 mx-auto" />
                         <h2 className="mt-6 font-sans text-4xl sm:text-5xl font-bold tracking-tight">For Developers</h2>
                         <p className="mt-4 text-lg md:text-xl text-white/70">
-                            Integrate the power of Aura's intelligence into your own applications.
+                            Integrate the power of Aura&apos;s intelligence into your own applications.
                         </p>
                         <div className="mt-8 flex items-center justify-center gap-4">
                             <span className={cn("transition-colors", devMode ? "text-white" : "text-white/50")}>Developer Mode</span>

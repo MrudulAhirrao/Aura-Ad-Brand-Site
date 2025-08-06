@@ -49,7 +49,7 @@ const ContactPage = () => {
                         transition={{ duration: 0.8, delay: 0.2 }}
                         className="font-sans text-5xl md:text-7xl font-bold tracking-tight"
                     >
-                        Let's Start a Conversation.
+                        Let&apos;s Start a Conversation.
                     </motion.h1>
                     <motion.p 
                         initial={{ opacity: 0, y: 20 }}
@@ -57,8 +57,8 @@ const ContactPage = () => {
                         transition={{ duration: 0.8, delay: 0.4 }}
                         className="mt-6 text-lg md:text-xl text-white/70"
                     >
-                        Whether you're ready for a personalized demo or have a question about our platform, our team is here to help you unlock the full potential of your advertising strategy.
-                    </motion.p>
+                        Whether you&apos;re ready for a personalized demo or have a question about our platform, our team is here to help you unlock the full potential of your advertising strategy.
+</motion.p>
                 </div>
             </motion.section>
 

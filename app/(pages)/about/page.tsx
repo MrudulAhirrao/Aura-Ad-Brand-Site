@@ -2,9 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Users, Target, Milestone, Zap, Lightbulb, Eye } from "lucide-react";
-import Link from "next/link";
 
-// --- Timeline Data based on our research ---
 const timelineEvents = [
     {
         year: "2017",

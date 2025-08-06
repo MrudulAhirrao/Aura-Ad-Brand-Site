@@ -28,7 +28,7 @@ const ProblemSection = () => {
             Your advertising is powerful.
           </h2>
           <p className="mt-4 text-lg sm:text-xl text-white/70 max-w-3xl mx-auto">
-            But juggling dozens of platforms means you're rich in data but poor in insight. It's impossible to see the full picture when your information is fragmented across every channel.
+            But juggling dozens of platforms means you&apos;re rich in data but poor in insight. It&apos;s impossible to see the full picture when your information is fragmented across every channel.
           </p>
         </motion.div>
 
